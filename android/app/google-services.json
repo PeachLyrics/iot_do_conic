@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "533736154956",
+      "project_id": "digital-a7259",
+      "storage_bucket": "digital-a7259.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:533736154956:android:16d5f534dd4426fb7dd1e9",
+          "android_client_info": {
+            "package_name": "com.exemple.iot_do_conic"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "533736154956-od8t4o9s1pc0c4baeq2mtes90p7rkiki.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDHCM2r9-SuS46DvkR8hYi2reqVud4bUXg"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "533736154956-od8t4o9s1pc0c4baeq2mtes90p7rkiki.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
